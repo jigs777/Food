@@ -1,0 +1,79 @@
+{
+  "result": 1,
+  "data": [
+       {
+        "food_category_id": 1,
+        "food_category_name": "Pizza",
+        "food_category_imagename": "pizza",
+        "is_Expand": true,
+        "sub_category": [
+          {
+            "sub_category_id": 1,
+            "sub_category_name": "Farmhouse",
+            "sub_category_imagename": "farmhouse",
+            "description": "A farmhouse is a type of a house, which serves a residential purpose in an agricultural setting. It is surrounded by a farm or a well landscaped garden. ... But all have the rural or agricultural flavour. Farmhouses are spread in a modest to a huge chunk of land with large front porches.",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 2,
+            "sub_category_name": "Cheese pizza",
+            "sub_category_imagename": "cheese_pizza",
+            "description": "The International Dictionary of Food and Cooking defines pizza cheese as a soft spun-curd cheese similar to Mozzarella made from cow's milk... that is ...used particularly for pizzas and contains somewhat less water than real Mozzarella... Most are at least 95 percent Mozzarella, with different moisture and fat ...",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 3,
+            "sub_category_name": "Corn Capsicum",
+            "sub_category_imagename": "corn_capsicum",
+            "description": "Corn capsicum masala recipe | corn capsicum sabzi | corn capsicum gravy with detailed photo and video recipe. an easy and simple north indian gravy recipe made with corn and capsicum in a creamy gravy. it is a popular alternative to the potato, paneer or even to the meat-based non-veg gravies. the thick and rich gravy goes very well choice of roti, paratha or any indian flatbread recipe for your next lunch and dinner.",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 4,
+            "sub_category_name": "Greek Pizza",
+            "sub_category_imagename": "greek_pizza",
+            "description": "In the cuisine of the United States, Greek pizza is a style of pizza crust and preparation where the pizza is proofed and cooked in a metal pan rather stretched to order and baked on the floor of the pizza oven. A shallow pan is used, unlike the deep pans used in Sicilian-American, Chicago, or Detroit-styled pizzas.",
+            "is_checked": false,
+          }
+        ]
+      },
+       {
+        "food_category_id": 1,
+        "food_category_name": "Burger",
+        "food_category_imagename": "burger",
+        "is_Expand": false,
+        "sub_category": [
+          {
+            "sub_category_id": 1,
+            "sub_category_name": "Butter burgers",
+            "sub_category_imagename": "butter_burgers",
+            "description": "These burgers are inspired by the butter-drenched ones they serve in Wisconsin, USA. We’ve been a little bit more restrained with the application of butter but they’re still super-indulgent, sandwiched in buns with pickles and butter-fried onion.",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 2,
+            "sub_category_name": "New York deli burger",
+            "sub_category_imagename": "new_york_deli_burger",
+            "description": "Just look at those lovely layers. It's all about steak mince, pastrami, emmental, sauerkraut and spicy horseradish sauce for this beast of a burger.",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 3,
+            "sub_category_name": "Cheeseburger tacos",
+            "sub_category_imagename": "cheeseburger_tacos",
+            "description": "Just look at those lovely layers. It's all about steak mince, pastrami, emmental, sauerkraut and spicy horseradish sauce for this beast of a burger.",
+            "is_checked": false,
+          },
+          {
+            "sub_category_id": 4,
+            "sub_category_name": "Raclette burgers",
+            "sub_category_imagename": "raclette_burgers",
+            "description": "For the cheesiest burger around, try these moreish raclette burgers. Stuff your burger bun with succulent steak patties, raclette cheese, crispy prosciutto and homemade burger sauce for an indulgent midweek treat. Serve with homemade chunky chips for the ultimate comfort food.",
+
+            "is_checked": false,
+          }
+        ]
+      }
+  ],
+  "message": ""
+}
